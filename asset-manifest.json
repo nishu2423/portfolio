@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nishu2423.github.io/portfolio/static/css/main.58a0c615.css",
-    "main.js": "/nishu2423.github.io/portfolio/static/js/main.be00ad7d.js",
-    "static/media/HeroImage.jpg": "/nishu2423.github.io/portfolio/static/media/HeroImage.b733ee320996ef1effe4.jpg",
-    "index.html": "/nishu2423.github.io/portfolio/index.html",
-    "main.58a0c615.css.map": "/nishu2423.github.io/portfolio/static/css/main.58a0c615.css.map",
-    "main.be00ad7d.js.map": "/nishu2423.github.io/portfolio/static/js/main.be00ad7d.js.map"
+    "main.css": "/portfolio/static/css/main.58a0c615.css",
+    "main.js": "/portfolio/static/js/main.920d8ff0.js",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.b733ee320996ef1effe4.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.58a0c615.css.map": "/portfolio/static/css/main.58a0c615.css.map",
+    "main.920d8ff0.js.map": "/portfolio/static/js/main.920d8ff0.js.map"
   },
   "entrypoints": [
     "static/css/main.58a0c615.css",
-    "static/js/main.be00ad7d.js"
+    "static/js/main.920d8ff0.js"
   ]
 }
